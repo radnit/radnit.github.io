@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: Radnit
+email: vav@radnit.ru
+url: https://radnit.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: LLC "Radnit" 2016
   location: Location
   social: Around the Web
   credits: Credits
@@ -51,7 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rissia
+  - line: Russia
   - line: Izhevsk
 
 # Credits content
