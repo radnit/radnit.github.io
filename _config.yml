@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: LLC "Radnit" 2016
+  copyright: LLC "Radnit"
   location: Location
   social: Around the Web
   credits: Credits
@@ -39,15 +39,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/vradnit
   - title: facebook
-    url:
+    url: https://www.facebook.com/profile.php?id=100001965662123
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/users/6783791/%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9-%d0%92%d0%be%d1%80%d0%be%d0%bd%d0%be%d0%b2
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/radnit
 
 # Postal address (add as many lines as necessary)
 address:
